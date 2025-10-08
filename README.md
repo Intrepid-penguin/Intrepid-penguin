@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Intrepid-penguin
+- 👋 Hi, I’m @Intrepid-penguinn
 - 👀 I’m interested in web development, AI/ML, blockchain and cybersecurity
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on any web and blockchain project
